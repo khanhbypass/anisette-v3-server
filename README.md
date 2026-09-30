@@ -21,9 +21,11 @@ If you can't connect to the server:
 - Check your internet connection, link
 - Wait for few minutes then re-connect
 - If you can't connect, that's mean the server is have an outage. We will fix the problem if we found the issues.
+
 If you have other issues:
 - The causes can be your internet connection, VPN, our server or the app ifself (Like SideStore/AltStore/LiveContainer)
 - You can refer to other website for troubleshooting:
+
 [SideStore](https://docs.sidestore.io/docs/troubleshooting)
 
 
