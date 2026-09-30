@@ -14,8 +14,3 @@ anisette-v3) but it can also be used with AltServer-Linux.
 ```bash
 https://khanhbypasss-anisette-server.onrender.com/
 ```
-
-se your desired host in the playbook. Tweak your parameters/ansible.cfg for the remote_user you use. Requires root.
-```bash
-ansible-playbook -i inventory setup-anisette-v3-ansible.yaml -k
-```
