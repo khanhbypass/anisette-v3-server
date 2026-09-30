@@ -1,4 +1,4 @@
-# Khanhbypass's anisette server
+## Khanhbypass's anisette server
 
 A supposedly lighter alternative to [omnisette-server](https://github.com/SideStore/omnisette-server)
 
@@ -34,7 +34,9 @@ If you have other issues:
 
 - If you use LiveContainer (Standalone Version/LiveContainer + SideStore): (LiveContainer)[https://livecontainer.github.io/docs/faq]
 
-- If you use TrollStore: no link sorry :(
+- If you use TrollStore: no link sorry for inconvinent :(
+
+- If you use Esign/Ksign/Gnu: Figure Yourself
  
 
 
