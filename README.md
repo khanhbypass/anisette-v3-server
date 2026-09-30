@@ -32,7 +32,9 @@ If you have other issues:
 
 - If you use AltStore: [AltStore](https://faq.altstore.io/altstore-classic/troubleshooting-guide)
 
-- If you use LiveContainer (Standalone Version/LiveContainer + SideStore): https://livecontainer.github.io/docs/faq
+- If you use LiveContainer (Standalone Version/LiveContainer + SideStore): (LiveContainer)[https://livecontainer.github.io/docs/faq]
+
+- If you use TrollStore: no link sorry :(
  
 
 
