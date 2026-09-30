@@ -24,7 +24,9 @@ If you can't connect to the server:
 
 If you have other issues:
 - The causes can be your internet connection, VPN, our server or the app ifself (Like SideStore/AltStore/LiveContainer)
-- You can refer to other website for troubleshooting:
+- You can refer to other website in Troubleshooting Websites section
+
+## Troubleshooting Websites
 
 If you use Sidestore: [SideStore](https://docs.sidestore.io/docs/troubleshooting)
 
