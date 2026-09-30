@@ -38,6 +38,8 @@ If you have other issues:
 
 - If you use Esign/Ksign/Gnu: Figure Yourself.
 
+- If you use Sideloadly: Pay for Patreon then go to settings, Select Remote on Anisette Server (correct me if i wrong)
+
 > Notice: This is my own server and can have outage. Use at your own responsibility.
 
 
