@@ -26,6 +26,8 @@ If you have other issues:
 - The causes can be your internet connection, VPN, our server or the app ifself (Like SideStore/AltStore/LiveContainer)
 - You can refer to other website for troubleshooting:
 
-[SideStore](https://docs.sidestore.io/docs/troubleshooting)
+If you use Sidestore: [SideStore](https://docs.sidestore.io/docs/troubleshooting)
+
+If you use AltStore: [AltStore](https://faq.altstore.io/altstore-classic/troubleshooting-guide)
 
 
