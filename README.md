@@ -28,8 +28,11 @@ If you have other issues:
 
 ## Troubleshooting Websites
 
-If you use Sidestore: [SideStore](https://docs.sidestore.io/docs/troubleshooting)
+- If you use Sidestore: [SideStore](https://docs.sidestore.io/docs/troubleshooting)
 
-If you use AltStore: [AltStore](https://faq.altstore.io/altstore-classic/troubleshooting-guide)
+- If you use AltStore: [AltStore](https://faq.altstore.io/altstore-classic/troubleshooting-guide)
+
+- If you use LiveContainer (Standalone Version/LiveContainer + SideStore): https://livecontainer.github.io/docs/faq
+ 
 
 
