@@ -51,6 +51,7 @@ If you have other issues:
 
 ## Disclamer
 > This is my server, so if too much people use my server, the server might crash. Use the server with your your own responbility and caution.
+> DO NOT MODIFY THE JSON FILE. OR ELSE WE WILL SET A SECURITY KEY ON THE JSON FILE LINK.
 > Notice: This is my own server and can have outage. Use at your own responsibility.
 
 
