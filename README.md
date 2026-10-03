@@ -25,6 +25,13 @@ Why there is only 5 server? Because our server run in Render services so if the 
 https://json.extendsclass.com/bin/69ae99653978
 ```
 
+or this if the first one dont work
+
+```bash
+https://api.jsonsilo.com/public/68511c59-facc-4284-a742-fd40cbf84e8f
+```
+
+
 ## Troubleshooting
 If you can't connect to the server:
 - Check your internet connection, link
