@@ -7,13 +7,22 @@ Also, this is a fork of [anisette-v3-server](https://github.com/Dadoum/anisette-
 Like `omnisette-server`, it supports both currently supported SideStore's protocols (anisette-v1 and 
 anisette-v3) but it can also be used with AltServer-Linux.
 
+## Server List
+1. Singapore Server
+2. Oregon (US West) Server
+3. Frankfrut Server (EU Central)
+4. Ohio (US East)
+5. Virginia (US East)
+
+Why there is only 5 server? Because our server run in Render services so if the Render's server down, all server will down. We can't fix the problem but we will try our best to get the server back.
+
 ## Connect to SideStore/AltStore/LiveContainer
 1. Open SideStore/AltStore/LiveContainer
 2. Go to Settings and find the anisette configuration
 3. Enter anisette server link:
 
 ```bash
-https://khanhbypasss-anisette-server.onrender.com/
+https://json.extendsclass.com/bin/69ae99653978
 ```
 
 ## Troubleshooting
